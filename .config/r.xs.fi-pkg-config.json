@@ -1,0 +1,6 @@
+{
+	"supply_chain_descriptor": "prebuilt-binaries:https://github.com/notaryproject/notation",
+	"not_building_for_platforms_because": {
+		"linux/riscv64": "Upstream has no prebuilt binary"
+	}
+}

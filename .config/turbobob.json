@@ -1,0 +1,12 @@
+{
+	"for_description_of_this_file_see": "https://github.com/function61/turbobob",
+	"version_major": 1,
+	"project_name": "Notation",
+	"meta": {
+		"description": "Container image for Notation - A CLI tool to sign and verify artifacts.",
+		"website": "https://github.com/notaryproject/notation"
+	},
+	"docker_images": [
+		{ "image": "ghcr.io/r-xs-fi/notation", "platforms": ["linux/amd64", "linux/arm64", "linux/arm/v7"], "tag_latest": true }
+	]
+}

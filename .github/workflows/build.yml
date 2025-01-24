@@ -1,0 +1,7 @@
+name: Build
+
+on: [push]
+
+jobs:
+  reusable-build:
+    uses: r-xs-fi/.github/.github/workflows/build.yml@main
